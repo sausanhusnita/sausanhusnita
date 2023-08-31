@@ -1,6 +1,6 @@
 ### Hii guys, I'm **Sausan Husnita**👋
 
-<img align='center' src='https://sdtimes.com/wp-content/uploads/2014/09/0919.sdt-github.gif' alt='Chania' style='width:50%'>
+<img align='middle' src='https://sdtimes.com/wp-content/uploads/2014/09/0919.sdt-github.gif' style='width:50%'>
 
 
 <!--
