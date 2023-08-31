@@ -1,7 +1,8 @@
-### Hiiii there 👋
-<img align='center' src='https://sdtimes.com/wp-content/uploads/2014/09/0919.sdt-github.gif' width='400'>
+### Hii guys, I'm **Sausan Husnita**👋
 
-Hii guys, I'm **Sausan Husnita**
+<img align='center' src='https://sdtimes.com/wp-content/uploads/2014/09/0919.sdt-github.gif' width='400' height ='200'>
+
+
 <!--
 **sausanhusnita/sausanhusnita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
