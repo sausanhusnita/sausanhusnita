@@ -11,8 +11,6 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-E4405F?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/sausan-husnita-b94876165/) &nbsp; [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/sn.hsta_/?next=%2F)
 
-<!--
-**sausanhusnita/sausanhusnita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
