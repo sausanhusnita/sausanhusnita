@@ -1,7 +1,7 @@
 ### Hii guys, I'm **Sausan Husnita**👋
 
 <center>
-<img src='https://sdtimes.com/wp-content/uploads/2014/09/0919.sdt-github.gif' style='width:50%'>
+<img src='https://sdtimes.com/wp-content/uploads/2014/09/0919.sdt-github.gif' height ='200' width ='300'>
 </center>
 
 <!--
