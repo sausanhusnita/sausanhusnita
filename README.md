@@ -11,10 +11,4 @@ Here are some ideas to get you started:
 - 📬 You can contact me through my social media accounts
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2F8CBB?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/sausan-husnita-b94876165/) &nbsp; [![Instagram](https://img.shields.io/badge/Instagram-2F8CBB?style=for-the-badge&logo=Instagram)](https://www.instagram.com/sn.hsta_/?next=%2F)
-<!--
-**sausanhusnita/sausanhusnita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-
-
--->
