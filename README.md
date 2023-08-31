@@ -1,6 +1,6 @@
 ### Hii guys, I'm **Sausan Husnita**👋
 
-<img align='right' src='https://sdtimes.com/wp-content/uploads/2014/09/0919.sdt-github.gif' width='400' height ='200'>
+<img align='center' src='https://sdtimes.com/wp-content/uploads/2014/09/0919.sdt-github.gif' width='350' height ='200'>
 
 
 <!--
