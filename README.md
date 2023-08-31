@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning data science
 - 📬How to contact me, you can visit my social media
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E4405F?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/sausan-husnita-b94876165/) &nbsp; [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/sn.hsta_/?next=%2F)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E4405F?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/sausan-husnita-b94876165/) &nbsp; [![Instagram](https://img.shields.io/badge/Instagram-N2709O?style=for-the-badge&logo=instagram)](https://www.instagram.com/sn.hsta_/?next=%2F)
 
 
 
